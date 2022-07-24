@@ -8,14 +8,14 @@ Module 6 of DU's Data Analytics bootcamp introduced using API's and parsing JSON
 
 ## Analysis and Challenges
 
-### Analysis of PyBer Fares Based on Module
+### Analysis of Weather Data Based on Module
 qwerty
 <p align="center">
-  <img src="https://github.com/cb19weber/PyBer_Analysis/blob/main/analysis/Fig1.png" />
+  <img src="https://github.com/cb19weber/World_Weather_Analysis/blob/main/weather_data/Fig1.png" />
 </p>
 qwerty, qwerty
 
-### Analysis of PyBer Fares Based on Challenge
+### Analysis of Weather Data Based on Challenge
 qwerty
 
 <p align="center">
