@@ -29,7 +29,7 @@ qwerty, qwerty
 qwerty
 
 <p align="center">
-  <img src="https://github.com/cb19weber/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png" />
+  <img src="https://github.com/cb19weber/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png" />
 </p>
 
 qwerty, qwerty
