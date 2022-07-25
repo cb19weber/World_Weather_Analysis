@@ -10,9 +10,19 @@ Module 6 of DU's Data Analytics bootcamp introduced using API's and parsing JSON
 
 ### Analysis of Weather Data Based on Module
 qwerty
-<p align="center">
-  <img src="https://github.com/cb19weber/World_Weather_Analysis/blob/main/weather_data/Fig1.png" />
-</p>
+<TABLE align="center" CELLSPACING="20">
+<TR>
+<TD><p align="center">
+    <img src="https://github.com/cb19weber/World_Weather_Analysis/blob/main/weather_data/Fig5.png" />
+    </p></TD>
+<TD><p align="center">
+    <img src="https://github.com/cb19weber/World_Weather_Analysis/blob/main/weather_data/Fig1.png" />
+    </p></TD>
+<TD><p align="center">
+    <img src="https://github.com/cb19weber/World_Weather_Analysis/blob/main/weather_data/Fig6.png" />
+    </p></TD>
+</TR>
+</TABLE>
 qwerty, qwerty
 
 ### Analysis of Weather Data Based on Challenge
