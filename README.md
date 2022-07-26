@@ -36,10 +36,14 @@ The interactive graph, allowing potential consumers to view city, weather, and h
 <p align="center">
   <img src="https://github.com/cb19weber/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png" />
 </p>
-
-qwerty, qwerty
+The challenge portion also attempted to narrow down consumer choice to a given area, and then provide directional mapping and an interactive map with information boxes on a more micro level.
 
 ### Challenges and Difficulties Encountered
+One challenge encountered specifically with the gmaps direction layering was the inability to provide directions that travel over water. This presented a challenge for me as I had decided to focus on a small region in Malaysia initially and had to relocate slightly to Indonesia in order to accomodate the assignment. I'd love to explore a means of overcoming this at some point.
 
+I think there are numerous ideas that could eventually be included in this type of app, and I found the assignment very educational. The ability to combine multiple dataframes using the .concat() function was a small but <i>awesome</i> bit of learning that I have already applied in other projects.
+
+I actually didn't find reading the JSON or navigating the API extremely difficult, and it seems pretty straightforward with the proper documentation. I can imagine the challenge is actually <i>finding</i> datasets that can be accessed via API and gaining access to an appropriate key for what is needed in development.
 
 ## Results
+Overall, I am thrilled to have gone through this module, I feel like I learned a great deal, and I look forward to continuing to build on this foundation going forward.
